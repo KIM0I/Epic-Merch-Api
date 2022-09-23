@@ -1,0 +1,4 @@
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:postgres://wndthdcguohxeh:ea6178dd94aa1049f624774ab9d7564bdf832c799494583ad4bfd0add4fcb5c4@ec2-23-20-140-229.compute-1.amazonaws.com:5432/d42det33phbsvs
+spring.datasource.username=wndthdcguohxeh
+spring.datasource.password=ea6178dd94aa1049f624774ab9d7564bdf832c799494583ad4bfd0add4fcb5c4
